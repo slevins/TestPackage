@@ -1,5 +1,5 @@
 {
-  "name": "TestHttp",
+  "name": "testhttp",
   "version": "0.0.1",
   "description": "",
   "main": "test.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "\u0016https://github.com/slevins/slevins.github.io.git"
+    "url": "https://github.com/slevins/TestPackage.git"
   },
   "author": "Vlad <slevins2008@mail.ru>",
   "license": "ISC"
